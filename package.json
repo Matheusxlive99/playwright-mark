@@ -8,5 +8,8 @@
     "@types/node": "^20.11.30",
     "dotenv": "^16.4.5"
   },
-  "scripts": {}
+  "scripts": {},
+  "dependencies": {
+    "playwright": "^1.42.1"
+  }
 }
