@@ -37,7 +37,8 @@ export default defineConfig({
     headless: true,
     baseURL: process.env.BASE_URL,
     //screenshot: 'only-on-failure',
-    screenshot: 'on'
+    screenshot: 'on',
+    //video: 'on',
   },
 
   /* Configure projects for major browsers */
